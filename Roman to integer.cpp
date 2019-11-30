@@ -90,6 +90,14 @@ void romantype:: romantodecimal()
 }
 int main()
 {
+cout<<"\n**************************************************************************:";
+cout<<"\nProgrammer :  Sohail Zia Gill:";
+cout<<"\nTitle: Convert the roman numbers into integers:";
+cout<<"\nCompiler : Visual Studio 2012:";
+cout<<"\nDated : 30/sep/2019:";
+cout<<"\nCompiling date : 30/sep/2019:";
+cout<<" \nInternational Islamic University Islamabad:";
+cout<<"\n***************************************************************************:\n\n\n";
 	int op;
 	romantype r1;
 	do{
