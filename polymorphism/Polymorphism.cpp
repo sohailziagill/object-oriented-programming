@@ -26,6 +26,14 @@ class C :public A
 };
 int main()
 {
+cout<<"\n**************************************************************************:";
+cout<<"\nProgrammer :  Sohail Zia Gill:";
+cout<<"\nTitle: Polymorphism:";
+cout<<"\nCompiler : Visual Studio 2012:";
+cout<<"\nDated : 30/sep/2019:";
+cout<<"\nCompiling date : 30/sep/2019:";
+cout<<" \nInternational Islamic University Islamabad:";
+cout<<"\n***************************************************************************:\n\n\n";
 	A aobj;
 	B bobj;
 	C cobj;
