@@ -109,6 +109,14 @@ void labour::setter()
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 int main()
 {
+cout<<"\n**************************************************************************:";
+cout<<"\nProgrammer :  Sohail Zia Gill:";
+cout<<"\nTitle: Inheritence without constructors:";
+cout<<"\nCompiler : Visual Studio 2012:";
+cout<<"\nDated : 30/sep/2019:";
+cout<<"\nCompiling date : 30/sep/2019:";
+cout<<" \nInternational Islamic University Islamabad:";
+cout<<"\n***************************************************************************:\n\n\n";
 	manager m1("sohail", 123, "1w3-er4", "45df3", 34.78);
 	//scientist s1;
 //	labour l1;
