@@ -194,6 +194,14 @@ int tiktok::win()//To find winner palyer.
      }
      int main()
      {
+cout<<"\n**************************************************************************:";
+cout<<"\nProgrammer :  Sohail Zia Gill:";
+cout<<"\nTitle: Tik Tac Toe Game while using classes:";
+cout<<"\nCompiler : Visual Studio 2012:";
+cout<<"\nDated : 30/sep/2019:";
+cout<<"\nCompiling date : 30/sep/2019:";
+cout<<" \nInternational Islamic University Islamabad:";
+cout<<"\n***************************************************************************:\n\n\n";
      	tiktok t1;
      	t1.setter();
      	cout<<"player "<<t1.player;
