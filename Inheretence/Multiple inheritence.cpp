@@ -121,7 +121,15 @@ class e_st:public emp,public student
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
 int main()
-{
+{	
+cout<<"\n**************************************************************************:";
+cout<<"\nProgrammer :  Sohail Zia Gill:";
+cout<<"\nTitle: Multiple Inheritence:";
+cout<<"\nCompiler : Visual Studio 2012:";
+cout<<"\nDated : 30/sep/2019:";
+cout<<"\nCompiling date : 30/sep/2019:";
+cout<<" \nInternational Islamic University Islamabad:";
+cout<<"\n***************************************************************************:\n\n\n";
 sh_it* ptr;
 e_st e1;
 ptr=&e1;
